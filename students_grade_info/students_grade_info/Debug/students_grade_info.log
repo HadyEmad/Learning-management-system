@@ -1,0 +1,3 @@
+﻿  Source.cpp
+f:\3rd mechatronics\programming\project\students_grade_info\students_grade_info\source.cpp(9): warning C4101: 'y': unreferenced local variable
+  students_grade_info.vcxproj -> F:\3rd Mechatronics\Programming\project\students_grade_info\Debug\students_grade_info.exe
