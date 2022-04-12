@@ -1,0 +1,4 @@
+﻿  Source.cpp
+f:\3rd mechatronics\programming\project\last\learning_management_system\learning_management_system\source.cpp(487): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+f:\3rd mechatronics\programming\project\last\learning_management_system\learning_management_system\source.cpp(465): warning C4715: 'GPA': not all control paths return a value
+  Learning_Management_System.vcxproj -> F:\3rd Mechatronics\Programming\project\Last\Learning_Management_System\Debug\Learning_Management_System.exe
